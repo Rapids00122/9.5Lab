@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Richard Ford Lab 9.5
         </a>
       </header>
     </div>
